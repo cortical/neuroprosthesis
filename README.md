@@ -1,5 +1,3 @@
-neuroprosthesis
-
 MainFigs:
 Code for histogram and polar plots in the main figures.
 Requires Data file S1.xlsx to operate (see manuscript supplementary material)
